@@ -143,6 +143,8 @@ console.log("\n----------EXERCISE 11---------")
  properties.
 */
 console.log("Type of Car variable:", typeof carsForRent)
+console.log("Type of Car variable:", typeof car1.brand)
+console.log("Type of Car variable:", typeof car1.licensePlate)
 
 console.log("\n----------EXERCISE 12---------")
 /* EXERCISE 12
